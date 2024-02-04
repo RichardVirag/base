@@ -6,6 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'MFE';
-  url = 'http://127.0.0.1:4500/micro-fe.js';
+  url = 'http://127.0.0.1:4500/contratacao-parcelada.js';
 }
